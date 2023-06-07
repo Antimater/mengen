@@ -1,0 +1,15 @@
+div#imgDiv {
+  display: flex;
+  justify-content: center;
+}
+div#divProduct {
+  display: flex;
+  justify-content: center;
+}
+input#inputLastName {
+  margin-inline: 20px;
+}
+img#title {
+  width: 200px;
+  height: auto;
+}
