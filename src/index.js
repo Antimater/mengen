@@ -16,6 +16,7 @@ function submitData() {
         .then(response => response.json())
         .then(json => {
             console.log(json);
-            // Do stuff with the contents of the JSON file here
+            console.log("inputPassword");
         })
+
 }
