@@ -1,0 +1,76 @@
+{
+    "2023": {
+        "Januar": {
+            "week1": 10.333,
+            "week2": 23,
+            "week3": 10,
+            "week4": 10
+        },
+        "Februar": {
+            "week1": 10,
+            "week2": 23,
+            "week3": 10,
+            "week4": 10
+        },
+        "Maerz": {
+            "week1": 10,
+            "week2": 23,
+            "week3": 10,
+            "week4": 10
+        },
+        "April": {
+            "week1": 10,
+            "week2": 23,
+            "week3": 10,
+            "week4": 10
+        },
+        "Mai": {
+            "week1": 10,
+            "week2": 23,
+            "week3": 10,
+            "week4": 10
+        },
+        "Juni": {
+            "week1": 10,
+            "week2": 23,
+            "week3": 10,
+            "week4": 10
+        },
+        "Juli": {
+            "week1": 10,
+            "week2": 23,
+            "week3": 10,
+            "week4": 10
+        },
+        "August": {
+            "week1": 10,
+            "week2": 23,
+            "week3": 10,
+            "week4": 10
+        },
+        "September": {
+            "week1": 10,
+            "week2": 23,
+            "week3": 10,
+            "week4": 10
+        },
+        "Oktober": {
+            "week1": 10,
+            "week2": 23,
+            "week3": 10,
+            "week4": 10
+        },
+        "November": {
+            "week1": 10,
+            "week2": 23,
+            "week3": 10,
+            "week4": 10
+        },
+        "Dezember": {
+            "week1": 10,
+            "week2": 23,
+            "week3": 10,
+            "week4": 10
+        }
+    }
+}
