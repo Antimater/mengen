@@ -1,4 +1,4 @@
-let elementSubmit = document.getElementById("selectProduct");
+let elementSubmit = document.getElementById("sendValues");
 elementSubmit.addEventListener("onClick", submitData);
 
 function submitData() {
