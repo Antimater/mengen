@@ -1,16 +1,14 @@
 {
-    "Ta2tX3H6rf%&": {
-        "Januar": {
-            "week1": 10.333,
-            "week2": 23,
-            "week3": 10,
-            "week4": 10
+        "Ta2tX3H6rf%&": {
+            "Vorname": "Reinhardt",
+            "Nachname": "Schmidt",
+            "Psilocin": 0,
+            "Mutterkorn": 0
         },
         "xd9XC2P@1O08": {
-            "week1": 10,
-            "week2": 23,
-            "week3": 10,
-            "week4": 10
-        }
+            "Vorname": "Massimo",
+            "Nachname": "Lorenz",
+            "Psilocin": 0,
+            "Mutterkorn": 0
     }
 }
