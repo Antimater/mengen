@@ -16,3 +16,7 @@ img#title {
   width: 200px;
   height: auto;
 }
+input#inputMenge {
+  display: flex;
+  justify-content: center;
+}
